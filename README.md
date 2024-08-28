@@ -2,4 +2,4 @@
 
 fiz uma alteração no reposiório remoto!
 
-fiz uma alteração no reposiório local!S
+fiz uma alteração no reposiório local!
